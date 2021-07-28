@@ -5,9 +5,11 @@
 // Divisão (a / b)
 // Módulo (a % b)
 
+// Declara variaveis
 let a = 2;
 let b = 4;
 
+// Exibindo resultados
 console.log(a + b);
 console.log(a - b);
 console.log(a * b);
