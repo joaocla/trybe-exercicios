@@ -12,8 +12,5 @@ const joker = '*';
 let contador = 1;
 
 for(i = 1; i <= n; i ++){
-    while(contador <= n){
-        console.log(joker.repeat(contador));
-        contador ++;
-    }
+    console.log(joker.repeat(i))
 }
